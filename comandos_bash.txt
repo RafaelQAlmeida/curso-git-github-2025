@@ -5,7 +5,4 @@ pwd -> mostra diretorios de trabalho
 cat -> exibe conteudo do arquivo
 
 rm -> remove arquivo ou diretorio
-
-
-git init . -> inicia o repositorio git
-rm -rf .git/ -> remove um diretorio git
+rm -rf -> remove de forma recursiva e forcada todos os diretorios
