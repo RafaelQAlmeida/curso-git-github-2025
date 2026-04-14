@@ -1,0 +1,9 @@
+ls -> lista arquivos
+cd -> move entre diretorios
+pwd -> mostra diretorios de trabalho
+
+cat -> mostra o que tem nos arquivos editaveis
+
+
+git init . -> inicia o repositorio git
+rm -rf .git/ -> remove um diretorio git
